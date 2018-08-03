@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <template id="su_tv_df" name="su_tv_df templates" inherit_id="web.assets_backend">
+            <xpath expr="." position="inside">
+                <link rel="stylesheet" type="text/less" href="/ssdw/static/src/less/form_view.less"/>
+                <script type="text/javascript" src="/ssdw/static/src/js/form_view.js"></script>
+            </xpath>
+        </template>
+    </data>
+</odoo>
